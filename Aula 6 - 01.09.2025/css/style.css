@@ -1,0 +1,45 @@
+body{
+    background-color: bisque;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.central{
+    text-align: center;
+
+}
+
+.menu{
+    display: inline;
+    margin: 0.6rem;
+    background-color: rgb(221, 182, 134);
+    padding: 0.7rem;
+    padding-right: 1rem;
+    border-style: double;
+    border-color: rgb(148, 103, 47);
+}
+
+.menu:hover{
+    background-color: rgb(163, 112, 50);
+}
+
+.menu a:hover{
+    color: rgb(245, 209, 165);
+    text-decoration: none;
+}
+
+.menu1{
+    background-color: rgb(221, 182, 134) ;
+    padding: 0.7rem;
+}
+
+td{
+text-align: center;
+padding-left: 0.8rem;
+
+
+}
+
+th{
+text-align: center;
+
+}
